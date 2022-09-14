@@ -8,7 +8,7 @@ interface ButtonProps {
 function Button(props: ButtonProps) {
   return (
     <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold text-4xl py-10 px-20 rounded my-40">
-      <a href="">
+      <a href="https://t.me/RUHBOT_BOT">
         {props.title}
       </a>
     </button>
