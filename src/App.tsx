@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="max-w-7xl mx-auto flex flex-col items-center my-40">
       <h1 className="text-center text-6xl font-extrabold text-white text-shadow">Marea-Turbo Hackerclub</h1>
-      <Button title="Chamar RUbot para Telegram"></Button>
+      <Button title="Chamar RUH BOT para Telegram"></Button>
     </div>
   )
 }
